@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buildspace-wave-portal/static/css/main.e0d02d06.css",
+    "main.js": "/buildspace-wave-portal/static/js/main.86d75ee9.js",
+    "static/js/787.2cba0e0c.chunk.js": "/buildspace-wave-portal/static/js/787.2cba0e0c.chunk.js",
+    "index.html": "/buildspace-wave-portal/index.html",
+    "main.e0d02d06.css.map": "/buildspace-wave-portal/static/css/main.e0d02d06.css.map",
+    "main.86d75ee9.js.map": "/buildspace-wave-portal/static/js/main.86d75ee9.js.map",
+    "787.2cba0e0c.chunk.js.map": "/buildspace-wave-portal/static/js/787.2cba0e0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0d02d06.css",
+    "static/js/main.86d75ee9.js"
+  ]
+}
