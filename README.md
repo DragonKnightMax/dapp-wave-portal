@@ -4,8 +4,6 @@ A smart contract for wave portal to be deployed on Ethereum Testnet (Rinkeby).
 
 ## Tools & Technology
 
----
-
 - Hardhat
 - Ethereum (Rinkeby Testnet)
 - Solidity
@@ -15,16 +13,11 @@ A smart contract for wave portal to be deployed on Ethereum Testnet (Rinkeby).
 
 ## Notes
 
----
-
 - Make sure you have `Node` or `npm` installed on your PC.
-- If you don't have Ethreum wallet, you can create one on Metamask.  
-  [https://metamask.io/](https://metamask.io/)
+- If you don't have Ethreum wallet, you can create one on [Metamask](https://metamask.io/).
 - Switch your Metamask account to Rinkeby Testnet as we will not use real money $$.
-- Before deploying the contract, you need some ethereum in your wallet. Claim it on Rinkeby faucet.  
-  [https://faucets.chain.link/rinkeby](https://faucets.chain.link/rinkeby)
-- You also need to create an account on Alchemy.  
-  [https://www.alchemy.com/](https://www.alchemy.com/)
+- Before deploying the contract, you need some ethereum in your wallet. Claim it on Rinkeby [faucet](https://faucets.chain.link/rinkeby).
+- You also need to create an account on [Alchemy](https://www.alchemy.com/).
 - Rename `.env-example` to `.env`. Change the following lines:
   
   ```.env
@@ -35,8 +28,6 @@ A smart contract for wave portal to be deployed on Ethereum Testnet (Rinkeby).
    **Important!! Do not share your wallet private key with anyone! You can get hacked!**
 
 ## Deploy
-
----
 
 - Local
 
@@ -51,8 +42,7 @@ A smart contract for wave portal to be deployed on Ethereum Testnet (Rinkeby).
   ```
 
   - Record the contract address deployed on Rinkeby testnet. Your web app need it to talk with the contract on the blockchain.
-  - Verify the contract deployment using Rinkeby Etherscan.  
-  [https://rinkeby.etherscan.io/](https://rinkeby.etherscan.io/)
+  - Verify the contract deployment using [Rinkeby Etherscan](https://rinkeby.etherscan.io/).
 
 ---
 
